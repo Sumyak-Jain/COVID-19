@@ -6,5 +6,5 @@
 ### **OUTPUT**
 
 
-![alt_text](https://github.com/sumyak/COVID-19/blob/master/task%201/Screenshot%20(267).png?raw=true)
+![alt_text](https://github.com/sumyak/COVID-19/blob/master/task%201/Screenshot%20(270).png?raw=true)
 
