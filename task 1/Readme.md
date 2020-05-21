@@ -1,7 +1,7 @@
 # Get the latest number of confirmed cases, deaths, recovered and active cases of COVID-19 Country wise.
-## + Total
-## + Specific
-## + represent cases using Bar Graph
+### * Total
+### * Specific
+### * represent cases using Bar Graph
 
 ### **OUTPUT**
 
