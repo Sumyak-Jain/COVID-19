@@ -1,4 +1,4 @@
-# program to get the latest number of confirmed, deaths, recovered and active cases of Novel Coronavirus (COVID-19) Country wise.
+# Program to get the latest number of confirmed cases, deaths, recovered and active cases of COVID-19 Country wise.
 + Total
 + Specific
 
