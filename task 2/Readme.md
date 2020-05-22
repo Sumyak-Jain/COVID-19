@@ -3,7 +3,7 @@
 
 ###  You can see the change in cases
 
-### **OUTPUT**
+## **OUTPUT**
 
 ![alt_txt](https://github.com/sumyak/COVID-19/blob/master/task%202/Screenshot%20(276).png?raw=true)
 
