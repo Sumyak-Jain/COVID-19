@@ -4,3 +4,5 @@
 ###  You can see the change in cases
 
 ## **OUTPUT**
+
+![alt_txt](https://github.com/sumyak/COVID-19/blob/master/task%204/Screenshot%20(280).png?raw=true)
