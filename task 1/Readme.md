@@ -3,7 +3,7 @@
 ###  2. Specific region
 ###  3. Represent cases using Bar Graph
 
-### **OUTPUT**
+## **OUTPUT**
 
 
 ![alt_text](https://github.com/sumyak/COVID-19/blob/master/task%201/Screenshot%20(270).png?raw=true)
