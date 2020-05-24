@@ -1,1 +1,1 @@
-
+# Get a no. of death cases from user and get countries which have greater then that no. of deaths on the basis of latest current date and the plot no. of confirmed , death , recovered , active cases of that countries
