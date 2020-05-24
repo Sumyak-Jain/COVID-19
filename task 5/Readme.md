@@ -1,4 +1,4 @@
-# 1.First sort the Dataset on the basis of Deaths and then get total no. of death cases from user and filter the countries which have greater then no. of deaths given by user on latest date( **not total no. of deaths just on that day deaths)
+# 1. First sort the Dataset on the basis of Deaths and then get total no. of death cases from user and filter the countries which have greater then no. of deaths given by user on latest date( **not total no. of deaths just on that day deaths)
 # 2. Then plot that countries confirmed,deaths,recovered and active cases
 + **'Deaths',color='red'**
 + **'Confirmed',color='green'**
