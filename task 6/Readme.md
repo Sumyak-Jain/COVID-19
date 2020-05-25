@@ -2,6 +2,7 @@
 + **Choropleth Map**
 + **World Map**
 + **Zoom in/out**
++ **Drag**
 + **DETAILS DISPLAYED**
 
   1. **Total No. Of Cases**
