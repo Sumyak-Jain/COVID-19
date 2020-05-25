@@ -12,7 +12,9 @@
   6. **Active Cases**
   7. **Death Cases**
  
+ 
 ## OUTPUT
+
 
 ![alt_txt](https://github.com/sumyak/COVID-19/blob/master/task%206/Screenshot%20(298).png?raw=true)
 ![alt_txt](https://github.com/sumyak/COVID-19/blob/master/task%206/Screenshot%20(299).png?raw=true)
