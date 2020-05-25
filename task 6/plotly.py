@@ -62,7 +62,8 @@ fig.update_layout(
         xref='paper',
         yref='paper',
         text='LATEST AS PER DATASET'+'<br>'\
-        'Confirmed , Recovered , Death and Active Cases',
+        'Confirmed , Recovered , Death and Active Cases'+'<br>'\
+        'Analysed by SUMYAK JAIN',
         showarrow = False
         
     )]
