@@ -4,5 +4,5 @@
 
 ## OUTPUT
 
-![alt_txt](https://github.com/sumyak/COVID-19/blob/master/task%207/Screenshot%20(304).png?raw=true)
+![alt_txt](https://github.com/sumyak/COVID-19/blob/master/task%207/Screenshot%20(306).png?raw=true)
 
