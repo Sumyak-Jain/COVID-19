@@ -1,1 +1,1 @@
-## NOTE: the data which we are working for this task is of indian states only till  23/03/20 
+## NOTE: The data which we are working for this task is of Indian states only till  23/03/20 
