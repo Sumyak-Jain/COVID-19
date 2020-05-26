@@ -1,4 +1,8 @@
 *NOTE: The data which we are working for this task is of Indian states only till  23/03/20*
 
-# Take a Indian state from user and display its current confirmed,death and cured cases
+# Take the name of an Indian state from user and display its current confirmed,death and cured cases
+
+## OUTPUT
+
+![alt_txt](https://github.com/sumyak/COVID-19/blob/master/task%207/Screenshot%20(304).png?raw=true)
 
