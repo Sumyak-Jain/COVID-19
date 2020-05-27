@@ -1,4 +1,4 @@
-*NOTE: The data which we are working for this task is of Indian states only till  23/03/20*
+*NOTE: The data which we are working for this task is of Indian states only till  26/05/20*
 
 # Take the name of an Indian state from user and display its current confirmed,death and cured cases and then plot using pie chart
 
